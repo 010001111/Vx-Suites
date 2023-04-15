@@ -1,2 +1,4 @@
 language: csharp
 solution: ./stolich/Stolich.sln
+
+# Added comment - 
